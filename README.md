@@ -37,6 +37,10 @@ Click on Accept.
 In the Storyboard, click on the School entity under Services, and select Open in Graphical Modeler.
 
 ![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/97a20238-5f2d-4e33-94d2-4317f983723c)
+
+Assign the length of students array in that school to the schoolstength field of school. 
+If email field of student is blank then add firstname , lastname and @gmail.com and assign to email.
+
 ![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/3f5e2544-171a-451a-8ebd-33989ae05380)
 ![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/10aa8cfe-986e-4bfa-94ac-5afd0cefd255)
 ![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/7f02d93c-92c4-43d2-9392-47785bfce1a8)
