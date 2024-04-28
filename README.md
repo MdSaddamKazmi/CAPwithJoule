@@ -39,7 +39,17 @@ In the Storyboard, click on the School entity under Services, and select Open in
 ![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/97a20238-5f2d-4e33-94d2-4317f983723c)
 ![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/3f5e2544-171a-451a-8ebd-33989ae05380)
 ![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/10aa8cfe-986e-4bfa-94ac-5afd0cefd255)
-![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/8d669428-67a9-4821-8954-ce4fab619dd4)
+![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/7f02d93c-92c4-43d2-9392-47785bfce1a8)
+![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/ff2e3b58-83b4-4bb5-8a7e-69f37b84dc48)
+![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/ed7d8518-9ec9-4628-8dcf-599920e81917)
+
+Create UI with main entity as "School".
+![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/16393083-bfcd-493a-8ee8-ec3aca2a97fe)
+
+To preview your application, once the files have been generated, go to the upper-right corner, and click preview (Run and Debug).
+
+
+
 
 
 
