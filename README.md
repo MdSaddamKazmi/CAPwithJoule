@@ -51,6 +51,10 @@ Create UI with main entity as "School".
 ![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/16393083-bfcd-493a-8ee8-ec3aca2a97fe)
 
 To preview your application, once the files have been generated, go to the upper-right corner, and click preview (Run and Debug).
+The preview will be as : 
+![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/3c625cb6-e7f3-421a-a5e0-f8f080ecc995)
+CLick on the tile to open the app.
+
 
 
 
