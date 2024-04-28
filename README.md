@@ -8,6 +8,43 @@
 ![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/7de786b1-7926-4374-8a12-79a8cdc55882)
 ![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/3ada25c3-0b9c-4b15-9314-4b0f251f6ef3)
 ![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/62c52bcc-d90b-4704-8225-5bdac3fe544d)
+![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/e38a0004-004d-41a9-972c-298333ded1d9)
+
+Design a School and Student detail application. 
+Namespace is StudentDetails.
+Define 2 data entities: School and Student. 
+Both the entities have managed aspect derived from @sap/cds/common
+Each Student must have the following fields: student_id, firstName, lastName, dateOfBirth, dateOfJoining ,email, phoneNumber.
+for each student, field student_id is the key field.
+for each student, field student_id will be Integer.
+for each student, fields firstName, lastName, email and phoneNumber will be String.
+for each student, fields dateOfBirth and dateOfJoining will be Date type.
+for each student, fields student_id, firstName and phoneNumber will have mandatory annotation.
+Each student will have association to one school and association is called school and it is readonly.
+
+Each school should have a school_id, SchoolName, Principal, SchoolStrength, Curriculum and rating.
+for each school, field school_id is the key field.
+All fields for each school should be String except school_id and SchoolStrength that will be stored as Integer. 
+for each school, fields school_id, SchoolName, Principal and Curriculum have mandatory validation.
+for each school, field SchoolStrength is readonly and field rating has range of enum in A , B and C
+Each school will have composition of many students and composition is called students and it is readonly.
+
+![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/cb26e85f-11d0-4b91-97ee-462c811a10bb)
+Click on Accept.
+
+![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/10c1aa13-d89c-4591-9927-f7a5e6ee23e3)
+
+In the Storyboard, click on the School entity under Services, and select Open in Graphical Modeler.
+
+![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/97a20238-5f2d-4e33-94d2-4317f983723c)
+![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/3f5e2544-171a-451a-8ebd-33989ae05380)
+![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/10aa8cfe-986e-4bfa-94ac-5afd0cefd255)
+![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/8d669428-67a9-4821-8954-ce4fab619dd4)
+
+
+
+
+
 
 
 
