@@ -44,6 +44,7 @@ Assign the length of students array in that school to the schoolstength field of
 If email field of student is blank then add firstname , lastname and @gmail.com and assign to email.
 
 ![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/7f02d93c-92c4-43d2-9392-47785bfce1a8)
+Try to Regenerate and check if you get another code.
 ![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/8ce2d27c-7101-47ed-9ef6-4d2b07f4ca8a)
 ![image](https://github.com/MdSaddamKazmi/CAPwithJoule/assets/54942497/ed7d8518-9ec9-4628-8dcf-599920e81917)
 
